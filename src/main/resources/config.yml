@@ -1,0 +1,4 @@
+max-pearls: 4  # Maximum amount of pearls per time window
+time-window: 5 # Time window in sek
+spam-warning-message: "&c⚠ You are throwing to many enderpearls!" #Message send to the player if they throw to many pearls
+cancel-event: true #Stopping enderpearls from being thrown
